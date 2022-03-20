@@ -31,3 +31,4 @@ RUN \
 
 # add local files
 COPY /root /
+EXPOSE 22
